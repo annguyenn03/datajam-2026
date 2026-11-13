@@ -2,7 +2,7 @@
 
 **SFU DSSS DataJam 2026: "The Airbnb Vancouver Problem"**
 
-## Data-Driven Developments (DDD), a fictional private real estate fund, will deploy **$10M CAD** into BC short-term rental property. This repository contains the code that produces every number in our pitch: where to invest, how many properties, what property mix, and the expected 2027 performance with its range.
+Data-Driven Developments (DDD), a fictional private real estate fund, will deploy **$10M CAD** into BC short-term rental property. This repository contains the code that produces every number in our pitch: where to invest, how many properties, what property mix, and the expected 2027 performance with its range.
 
 ## Recommendation (summary)
 
